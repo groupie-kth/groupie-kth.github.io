@@ -6,7 +6,7 @@ The team consists of Louis Cameron Booth, Fred Robinson, Matay Mayrany, Ahmad Sh
 
 ### The Project
 Sprint 1
-'''makrdown 
+'''markdown
 Sprink Goal: Have a concrete design for the front-end & Back-end
 Stories: 
 1.Design the front-end
