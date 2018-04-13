@@ -6,7 +6,8 @@ Groupie is a group study app designed to promote social productivity amongst Sto
 The team consists of Louis Cameron Booth, Fred Robinson, Matay Mayrany, Ahmad Shabeeb, Daniel Muresu, and Sanghyun Bai.
 
 ### The Project
-#####Sprint 1
+
+Sprint 1
 ```markdown
 Sprint Goal: Have a concrete design for the front-end & Back-end
 Stories: 
