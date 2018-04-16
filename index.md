@@ -16,6 +16,18 @@ Stories:
 3. Design the database and classes
 4. Design the back-end API
 ```
+Sprint 2
+```markdown
+Sprint Goal: Implement basic functionality and layout of the app.
+Stories:
+1. Implement shared features across different pages
+2. Implement structure of android app
+3. Implement group messaging
+4. Implement cloud functions
+5. Implement login client side
+6. Implement registration client side
+```
+
 
 ### Support or Contact
 groupiekth@gmail.com 
