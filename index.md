@@ -27,7 +27,15 @@ Stories:
 5. Implement login client side
 6. Implement registration client side
 ```
-
+Sprint 3
+```markdown
+Sprint Goal: Finish group messaging and implement the main three pages of the app.
+Stories: 
+1. Create and Edit group pages
+2. Browser page (with filter)
+3. Profile pages
+4. Implement group messaging (finish)
+```
 
 ### Support or Contact
 groupiekth@gmail.com 
