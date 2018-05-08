@@ -36,6 +36,17 @@ Stories:
 3. Profile pages
 4. Implement group messaging (finish)
 ```
+Sprint 4
+```markdown
+Sprint Goal: Have messaging feature and the main pages done. 
+Stories: 
+1. Implement browser page
+2. Implement home page
+3. Implement profile page
+4. Implement group messaging
+5. Implement group preview
+6. Testing and write testing method 
+```
 
 ### Support or Contact
 groupiekth@gmail.com 
