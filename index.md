@@ -2,6 +2,10 @@
 ## Groupie
 Groupie is a group study app designed to promote social productivity amongst university students in Stockholm.
 
+### Download
+
+You can download the project [here](https://drive.google.com/file/d/1IPswYOkAtzokGpPXAveyB5g1pb-cGzLL/view?usp=sharing)
+
 ### The Developers
 The team consists of Louis Cameron Booth, Fred Robinson, Matay Mayrany, Ahmad Shabeeb, Daniel Muresu, and Sanghyun Bai.
 
